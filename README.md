@@ -9,12 +9,11 @@ da ferramenta Unity dos estudantes:
 
 O jogo foi desenvolvido e usado para ensino em 2016.
 
-Observação:
-Este projeto não foi feito com a intenção de ser vendido ou reutilizado como base para outro jogo. Foi feito apenas com 
-a intenção de ensino e ganho de experiência dos oficineiros.
-
 Ferramenta utilizada:
 - Unity 3D ver 5.1/5.3
+
+OBSERVAÇÃO:
+- Este projeto não foi feito com a intenção de ser vendido ou reutilizado como base para outro jogo. Foi feito apenas com a intenção de ensino e ganho de experiência dos oficineiros.
 
 O jogo original é open source e da autoria da google. Código fonte disponível em:
 - https://chromium.googlesource.com/chromium/src.git/+/master/components/neterror/resources/offline.js
