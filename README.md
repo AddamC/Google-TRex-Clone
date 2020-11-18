@@ -1,4 +1,4 @@
-# Jogo2D
+# Google-TRex-Clone
 
 Este projeto foi realizado para tentar reproduzir o famoso t-rex game, disponível no navegador google chrome em estado offline, com o intuito de ensinar o básico de desenvolvimento de jogos 2D na oficina da semana da informática da FEMA em Assis.
 
